@@ -1,0 +1,32 @@
+.navbar {
+    background-color: rgb(204, 2, 2); 
+  }
+
+  .navbar .nav-link {
+    color: white; 
+    font-weight: bold; 
+    font-size: 1.2rem; 
+  }
+
+  .navbar-brand {
+    color: black; 
+    font-weight: bold; 
+  }
+
+#texto_col {
+    /* background-color: aqua; */
+    padding-left: 40px;
+    padding-top: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+#imagem-col {
+    /*background-color: brown; */
+    padding-left: 40px;
+    padding-top: 40px;
+}
+
+.body-title {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 400;
+    color: brown;
+}
