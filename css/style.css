@@ -30,3 +30,37 @@
     font-weight: 400;
     color: brown;
 }
+
+.col-8 {
+  /* background-color: aqua; */
+}
+
+.col-4 {
+  /* background-color: blue; */
+}
+
+#imag-col {
+  padding-left: 40px;
+  padding-top: 40px;
+}
+
+#contato {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 2.0rem;
+  font-weight: bold;
+  color: rgb(204, 2, 2);
+  padding-left: 340px;
+  padding-top: 40px;
+}
+#card-body {
+ background-color: rgb(236, 201, 4);
+ padding-left: 340px;
+  padding-top: 20px;
+}
+
+#burguer-1 {
+  padding-left: 340px;
+  padding-top: 40px;
+  font-weight: 400;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
