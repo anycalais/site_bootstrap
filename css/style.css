@@ -11,6 +11,7 @@
   .navbar-brand {
     color: black; 
     font-weight: bold; 
+    
   }
 
 #texto_col {
@@ -53,7 +54,7 @@
   padding-top: 40px;
 }
 #card-body {
- background-color: rgb(236, 201, 4);
+ background-color: rgb(245, 208, 0);
  padding-left: 340px;
   padding-top: 20px;
 }
@@ -61,4 +62,16 @@
 .form-label {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-size: 0.9rem;
+}
+
+#card-text {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  background-color:rgb(245, 208, 0);
+}
+
+#burger-text {
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#dest-text {
+  background-color: rgb(204, 2, 2);
 }
