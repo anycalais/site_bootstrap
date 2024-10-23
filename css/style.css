@@ -28,7 +28,7 @@
 .body-title {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: 400;
-    color: brown;
+    color: rgb(204, 2, 2);
 }
 
 .col-8 {
@@ -58,9 +58,7 @@
   padding-top: 20px;
 }
 
-#burguer-1 {
-  padding-left: 340px;
-  padding-top: 40px;
-  font-weight: 400;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+.form-label {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 0.9rem;
 }
