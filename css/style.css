@@ -66,12 +66,18 @@
 
 #card-text {
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  background-color:rgb(245, 208, 0);
+  background-color:rgb(204, 2, 2);
 }
 
 #burger-text {
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
 }
 #dest-text {
   background-color: rgb(204, 2, 2);
 }
+
+#destaque-cor {
+  background-color: rgb(204, 2, 2);
+}
+
